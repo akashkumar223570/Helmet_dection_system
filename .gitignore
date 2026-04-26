@@ -22,7 +22,7 @@ new_dataset/
 .kaggle/
 .lightning_studio/
 .streamlit/
-
+README.md
 # Misc
 *.zip
 uv.lock
