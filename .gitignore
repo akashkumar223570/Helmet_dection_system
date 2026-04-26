@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+env/
+
+# Data & training
+runs/
+new_dataset/
+
+# Models
+*.pt
+
+# Images
+*.jpg
+*.jpeg
+*.png
+
+# System files
+.kaggle/
+.lightning_studio/
+.streamlit/
+
+# Misc
+*.zip
+uv.lock
+
+
+ 
+gdown
