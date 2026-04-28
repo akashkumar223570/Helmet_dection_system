@@ -90,6 +90,8 @@ Worker/Site Camera Feed
 > Example structure:
 
 ![WebApp](assets/app.png)
+![detection 1/2](assets/imgdemo1.png)
+![dection 1/2](assets/imgdemo2.png)
 
 You can record a demo GIF using tools like [ScreenToGif](https://www.screentogif.com/) or [Peek (Linux)](https://github.com/phw/peek) and upload it to your `assets/` folder.
 
