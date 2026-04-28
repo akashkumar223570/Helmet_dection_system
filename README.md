@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-**[🚀 Live Demo](#)** • **[📖 Documentation](#)** • **[🐛 Report Bug](#)** • **[💡 Request Feature](#)**
+**[🚀 Live Demo](https://helmet-safety-ai.streamlit.app/)** • **[📖 Documentation](#)** • **[🐛 Report Bug](#)** • **[💡 Request Feature](#)**
 
 > ⚠️ **TODO:** Replace `#` links above with your actual GitHub Pages / Streamlit Cloud / Hugging Face Spaces deployment URL and issue tracker links.
 
