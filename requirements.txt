@@ -1,9 +1,7 @@
---extra-index-url https://download.pytorch.org/whl/cpu
-
 streamlit==1.35.0
 ultralytics==8.2.0
 opencv-python-headless==4.8.1.78
-numpy==1.26.4
+numpy==1.24.4
 pillow
 gdown
 torch==2.2.2
